@@ -70,7 +70,7 @@ In this section, you will assess the financial health of the credit union's memb
 
     **Hint:** The `df_savings` DataFrame should have one column named `amount` and two rows where `crypto` and `shares` are the index values: 
     
-    ![df_savings](Images/df_savings.png)
+    ![df_savings](df_savings.png)
 
 3. Use the `df_savings` DataFrame to plot a pie chart to visualize the composition of personal savings.
 
@@ -98,9 +98,9 @@ Follow the steps outlined in the starter notebook to complete the following:
 
 3. Plot the simulation results and the probability distribution/confidence intervals.
 
-    ![monte carlo](Images/monte-carlo.png)
+    ![monte carlo](monte-carlo.png)
         
-    ![histogram](Images/histogram.png)
+    ![histogram](histogram.png)
 
 #### Retirement Analysis
 
